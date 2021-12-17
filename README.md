@@ -2,3 +2,5 @@
 George Harrison
 
 Simple compound interest calculator
+
+https://georgeh02.github.io/interestcomputer/
